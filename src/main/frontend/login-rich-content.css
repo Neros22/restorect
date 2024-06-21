@@ -1,0 +1,17 @@
+.login-rich-content {
+    background-image: url("images/Life-insurance-policy-Free-Vector-image-2.png");
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    height: 700px;
+}
+
+.login-rich-content vaadin-login-form {
+    align-items: center;
+    display: flex;
+    max-width: 300px;
+}
+
+.login-rich-content vaadin-login-form-wrapper {
+    background-image: none;
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Create User",
+    "icon": "vaadin:dashboard",
+    "style": "",
+    "source": "/create-user"
+  },
+  {
+    "id": 2,
+    "name": "Item-board",
+    "icon": "vaadin:dashboard",
+    "style": "",
+    "source": "/item-board"
+  },
+  {
+    "id": 3,
+    "name": "Paket Oluştur",
+    "icon": "vaadin:dashboard",
+    "style": "",
+    "source": "/create-package"
+  },
+  {
+    "id": 4,
+    "name": "Paket Listesi",
+    "icon": "vaadin:dashboard",
+    "style": "",
+    "source": "/package-list"
+  }
+]
